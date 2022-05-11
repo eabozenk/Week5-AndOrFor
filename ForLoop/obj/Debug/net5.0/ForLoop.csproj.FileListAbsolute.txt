@@ -1,0 +1,16 @@
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ForLoop.exe
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ForLoop.deps.json
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.json
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ForLoop.runtimeconfig.dev.json
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ForLoop.dll
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ref\ForLoop.dll
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\bin\Debug\net5.0\ForLoop.pdb
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfoInputs.cache
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.AssemblyInfo.cs
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.dll
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ref\ForLoop.dll
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.pdb
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.genruntimeconfig.cache
+C:\Users\eaboz\source\repos\MoreLoops\ForLoop\obj\Debug\net5.0\ForLoop.csproj.AssemblyReference.cache
